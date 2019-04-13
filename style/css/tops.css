@@ -1,0 +1,152 @@
+html *, html ::after, html ::before {
+   box-sizing: border-box;
+}
+
+/* Remove the scroll bar */
+html, body {
+    overflow-x: hidden; 
+}
+
+body {
+    background: #f0f0f0;
+    word-wrap: break-word;
+}
+
+
+.img-fluid {
+    background-size: cover;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+   font-size: 22px;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+
+address, dl, .li-edit, .ol-edit, .ul-edit {
+    margin: .625em 0;
+}
+
+.ul-edit {
+    padding-left: 0;
+    list-style: none;
+}
+
+.ul-edit>.li-edit {
+    position: relative;
+    padding-left: 1.375em;
+}
+
+.ul-edit>.li-edit:first-child {
+    margin-top: 0;
+}
+
+.ul-edit>.li-edit::before {
+    content: "\2713";
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+.single-content {
+    background: #ffffff;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.single-content h1 {
+    padding-bottom: .25em;
+    border-bottom: 3px solid #e8e8e8;
+    margin-top: 15px;
+}
+
+.p-edit {
+    margin: 1.2em 0;
+    line-height: 1.5;
+}
+
+.single-content h2 {
+    padding-bottom: .25em;
+    border-bottom: 3px solid #e8e8e8;
+    margin-top: 35px;
+}
+
+.single-content h2 a {
+    color: black;
+}
+
+.single-content h2 a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+figcaption {
+    color: #9696a2;
+    margin-top: 3px;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+.single-content img {
+    margin-top: 3px;
+    width: 1270px;
+}
+
+.single-content figure {
+    max-width: 100%;
+    padding-bottom: 1px;
+    overflow-x: hidden;
+}
+
+.contacts {
+    margin-right: 10px;
+}
+
+.footer-edit {
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+}
+
+.contacts {
+    margin-right: 10px;
+}
+
+.footer-edit-p {
+    margin: 0;
+    padding: 0;
+    margin-top: 9px;
+}
+
+.footer {
+    margin-top: 21px;
+}
+
+   
+/* edit font-size body on small screens */
+@media (max-width: 426px) {
+    h1 {
+        font-size: 31px;
+    }
+
+    h2 {
+        font-size: 29px;
+    }
+}

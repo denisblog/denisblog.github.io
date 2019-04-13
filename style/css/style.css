@@ -1,0 +1,63 @@
+html *, html ::after, html ::before {
+   box-sizing: border-box;
+}
+
+/* Remove the scroll bar */
+html, body {
+    overflow-x: hidden; 
+}
+
+body {
+    word-wrap: break-word;
+}
+
+
+main {
+    padding: 15px;
+}
+
+.img-fluid {
+    background-size: cover;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+header {
+    margin-bottom: 13px;
+}
+
+.navbar-brand {
+   font-size: 22px;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+.btn-outline-secondary {
+    cursor: pointer;
+}
+
+.card {
+    margin: 0 auto;
+    max-width: 100% ;
+}
+
+.top-edit {
+    margin-top: 17px;
+}
+
+h5 a {
+    color: black;
+}
+
+h5 a:hover {
+    text-decoration: none;   
+}
+
+
+@media (max-width: 550px) {
+    main {
+        padding: 0;
+    }  
+}
