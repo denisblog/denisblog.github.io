@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.denisblog.ga/</loc>
+  <lastmod>2019-04-17T02:20:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.denisblog.ga/index.html</loc>
+  <lastmod>2019-04-17T02:20:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.denisblog.ga/tops/programming/story%20of%20one%20programmer/story%20of%20one%20programmer.html</loc>
+  <lastmod>2019-04-17T02:20:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.denisblog.ga/tops/guides/github%20pages%20site/github%20pages%20site.html</loc>
+  <lastmod>2019-04-17T02:20:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.denisblog.ga/tops/self-development/learning%20styles%20is%20a%20myth/learning%20style%20is%20a%20myth.html</loc>
+  <lastmod>2019-04-17T02:20:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.denisblog.ga/tops/game/why%20gta%206%20will%20not%20come%20out%20in%202019-2023/why%20gta%206%20will%20not%20come%20out%20in%202019-2023.html</loc>
+  <lastmod>2019-04-17T02:20:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
